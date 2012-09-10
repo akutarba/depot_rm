@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectKey">
-    <option name="state" value="project://be456e6f-3239-4507-b0e4-230f7b785e1f" />
+    <option name="state" value="https://github.com/akutarba/depot_rm.git" />
   </component>
   <component name="ProjectResources">
     <default-html-doctype>$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5.rnc</default-html-doctype>
