@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$APPLICATION_HOME_DIR$/inspections" />
+  </component>
   <component name="ProjectKey">
     <option name="state" value="https://github.com/akutarba/depot_rm.git" />
   </component>
